@@ -1,0 +1,19 @@
+div{
+    border: 1px solid black;
+    width: 3px;
+    height: 20px;
+    background-color: blueviolet;
+}
+.container{
+    min-height: 500px;
+    transform: rotate(180deg);
+    background-color: rgb(191, 210, 226);
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-direction: row-reverse;
+}
+button{
+    margin: 10px;
+    margin-left: 0px;
+}
